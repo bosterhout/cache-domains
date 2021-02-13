@@ -136,6 +136,11 @@
 			"name": "mtgarena",
 			"description": "CDN for Magic the Gathering Arena",
 			"domain_files": ["mtgarena.txt"]
+		},
+				{
+			"name": "adobe",
+			"description": "CDN for Adobe CC Products",
+			"domain_files": ["adobe.txt"]
 		}
 	]
 }
