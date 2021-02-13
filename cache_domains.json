@@ -131,6 +131,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "mtgarena",
+			"description": "CDN for Magic the Gathering Arena",
+			"domain_files": ["mtgarena.txt"]
 		}
 	]
 }
