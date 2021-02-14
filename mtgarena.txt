@@ -1,1 +1,3 @@
 *.downloads.wizards.com
+edge-arena-game-east-sfc-b.eastus2.cloudapp.azure.com
+client.arenagame-b.east.magic-the-gathering-arena.com
