@@ -1,5 +1,3 @@
 *.downloads.wizards.com
-client.arenagame-b.east.magic-the-gathering-arena.com
-*.unrealengine.com
 mtgarena.api.bi-installs.wizards.com
 mtgarena.api.bi-installs.wizards.com.edgekey.net
