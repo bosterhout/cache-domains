@@ -1,3 +1,5 @@
 *.downloads.wizards.com
 mtgarena.api.bi-installs.wizards.com
 mtgarena.api.bi-installs.wizards.com.edgekey.net
+assets.mtgarena.wizards.com.edgesuite.net
+assets.mtgarena.wizards.com
